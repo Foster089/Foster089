@@ -4,6 +4,6 @@ cvrinecnigeria.com- 👋 Hi, I’m @Foster Prince
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<I am Foster Prince--- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<I am Foster Prince Peremobowei--- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
